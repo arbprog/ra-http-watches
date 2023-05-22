@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ryrxbayr7rkumso5?svg=true)](https://ci.appveyor.com/project/arbprog/ra-http-watches)
